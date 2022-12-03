@@ -1,4 +1,4 @@
- /*=============== GOOGLE FONTS ===============*/
+/*=============== GOOGLE FONTS ===============*/
 @import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap");
 
 /*=============== VARIABLES CSS ===============*/
@@ -21,9 +21,10 @@
   /*========== Font and typography ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
   --body-font: "Rubik", sans-serif;
-  --h1-font-size: 2.25rem;
+  --h1-font-size: 2.9rem;
   --h2-font-size: 1.75rem;
   --h3-font-size: 1.25rem;
+
   --normal-font-size: 1rem;
   --small-font-size: 0.875rem;
 
